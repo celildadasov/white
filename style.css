@@ -1,0 +1,214 @@
+.footer{
+background-color: #1c1c1c;
+
+height: 400px;
+
+}
+.first, .second{
+ float: left;
+    height: 400px;
+    float: left;
+
+}
+.second{
+height: 400px;
+   
+ float: left;
+ margin-left: 30px;
+}
+
+.second>p{
+    color: #999;
+    font-family: 'Roboto',sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+    margin-top: 0;
+}
+
+.second>span:last-child{
+}
+
+.third{
+   
+    height: 400px;
+     float: left;
+     margin-left: 30px;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1170px;
+}
+#a{
+    font-weight: bold;
+
+   font-family: 'Roboto';
+}
+
+#b{
+    font-weight: 500;
+   
+}
+h4{
+   
+    font-size: 25px;
+    color:  #fff;
+}
+
+.firstone{
+   
+   
+    height:65px;
+    margin-top: 30px;
+}
+
+.image1{
+height: 50px;
+width: 70px;
+float: left;
+
+}
+.image1>img{
+    height: 53px;
+width: 70px;
+
+}
+
+.yazi1{
+    float: left;
+    height: 56px;
+width: 260px;
+margin-left: 15px;
+}
+ul li{
+    position: relative;
+    bottom: 13px;
+    right: 43px;
+  font-size: 13px;
+   list-style: none;
+   color: #666;
+
+}
+.firsttwo{
+    height: 65px;
+  
+    margin-top: 30px;
+}
+
+
+
+.firstthree{
+height: 65px;
+   
+    margin-top: 30px;
+
+}
+.yazi1>a{
+color: #ccc;
+
+}
+.yazi1>a:hover{
+    color: #333;
+    transition: .3s ease;
+}
+
+a{
+    color: #333;
+    cursor: pointer;
+}
+
+#us{
+ font-weight: 100;
+ 
+
+}
+
+
+.footer>.wrapper>.second>ul>li{
+    float: left;
+    width: 53px;
+    height: 50px;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 40px;
+    font-style: normal;
+    cursor: pointer;
+    border: 1px solid #242424;
+    line-height: 50px;
+}
+
+.footer>.wrapper>.second>ul>li:nth-child(n+2){
+    margin-left: 10px;
+}
+
+.footer>.wrapper>.second>ul>li:hover{
+    border: 1px solid#ccc;
+    
+    transition: .8s ease;
+}
+.footer>.wrapper>.second>ul>li:hover a{
+    color: #ccc;
+    transition: .8s ease;
+    
+}
+
+.form{
+    width: 370px;
+    height: 219px;
+   
+}
+.name{
+width: 100%;
+height: 44px;
+background: none;
+border: 2px solid#242424;
+
+}
+
+.name{
+    font-size: 13px;
+    color: #333;
+}
+
+textarea{
+    width: 100%;
+    height: 95px;
+    margin-top: 12px;
+    background: none;
+    font-size: 13px;
+    color: #333;
+    border: 2px solid#242424;
+
+}
+
+.send{
+    width: 159px;
+    height: 50px;
+    margin-top: 7px;
+    text-align: center;
+    background: none;
+    color: #333;
+    border: 2px solid#242424;
+    cursor: pointer;
+}
+.send:hover{
+    color: #ccc;
+    border: 2px solid #ccc;
+    transition:  1s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
